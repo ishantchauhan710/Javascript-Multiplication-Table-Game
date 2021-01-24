@@ -4,7 +4,7 @@ html {
 }
 
 #container {
-    height: 400px;
+    height: auto;
     width: 550px;
     background-color: #1b1820;
     margin: 100px auto;
